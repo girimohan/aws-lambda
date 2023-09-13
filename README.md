@@ -21,6 +21,4 @@ Follow these steps to set up and use the Lambda function:
 - Upload an image to the configured S3 bucket.
 - Check CloudWatch Logs for the Lambda function to view image metadata.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
